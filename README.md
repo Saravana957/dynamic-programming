@@ -29,3 +29,8 @@ const bar = (n) => {
 bar(6) will call this function 4 time. twice as fast. O(n/2) , we can remove any constant so this becomes O(n)
 
 fib(n) has 2^n time complexity
+
+--------------
+
+Time complexity : Number of fucntion calls. 
+Space complecity : Maximum stack deapth.
