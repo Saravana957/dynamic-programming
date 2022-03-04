@@ -2,7 +2,7 @@ Memoization Recipe
 ------------------
 
 1) Make it work
-    a) Visualize the problem as tree. Node is problem and edge should shrink the problem size. leaves are edge case.
+    a) Visualize the problem as tree. Node is problem and edge should shrink the problem size. leaves are base case.
     b) implement the tree as recursive
     c) Test it. 
 
